@@ -599,4 +599,4 @@ A stack-buffer-overflow was discovered in astcenc. The issue is being triggered 
 
 # Poc
 
-Poc file is [this](https://github.com/NISL-SecurityGroup/NISL-BugDetection/blob/main/project/packJPG/memory leaks/memory_leaks).
+Poc file is [this](https://github.com/nisl-bugTest/Pocfiles/blob/main/fuzzing/astc-encoder/stack-buffer-overflow-2/crash02).
